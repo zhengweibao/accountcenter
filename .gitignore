@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.metadata
+*/bin/*
+*/bin/
+*/tmp/**
+*.tmp
+*.bak
+*.swp
+*~
+*.classpath
+*.settings/*
+*.settings/
+*/target/
+*.idea
+*.class
+target
+.DS_Store
+*/**/..DS_Store
+/target
